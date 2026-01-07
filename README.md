@@ -1,6 +1,14 @@
 
 # 🌐 VisaFlow AI
 
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/5fc88d1f-573a-4013-ac48-c38b8b55bc2a" />
+<img width="1904" height="970" alt="image" src="https://github.com/user-attachments/assets/6a099b7c-fd6e-46f0-833e-44c077cd3932" />
+<img width="1899" height="953" alt="image" src="https://github.com/user-attachments/assets/74ae65d1-378d-4b4a-a8ec-a65dcf7735ba" />
+<img width="1880" height="841" alt="image" src="https://github.com/user-attachments/assets/75ad6d4a-af3b-4b78-b8b3-e4ef8fbf27db" />
+
+
+
+
 ## AI-Driven Document Intelligence & Visa Assistance System
 
 VisaFlow AI is a **computer vision + OCR + LLM–assisted application** built using **Python and Streamlit**.

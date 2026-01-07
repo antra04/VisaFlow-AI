@@ -1,0 +1,13 @@
+ultralytics
+easyocr
+opencv-python
+pillow
+numpy
+pandas
+streamlit
+google-generativeai
+python-dotenv
+PyPDF2
+pdf2image
+python-docx
+indic-nlp-library

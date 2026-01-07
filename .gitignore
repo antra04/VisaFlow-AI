@@ -1,0 +1,71 @@
+# ================================
+# 🔐 Secrets & Environment
+# ================================
+.env
+.env.*
+*.key
+*.pem
+
+# ================================
+# 🧠 ML / AI Artifacts
+# ================================
+outputs/
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.h5
+*.weights
+
+# (Optional: keep if model is re-downloadable)
+# yolov8n.pt
+
+# ================================
+# 🐍 Python Cache
+# ================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ================================
+# 📦 Virtual Environments
+# ================================
+venv/
+.venv/
+env/
+ENV/
+
+# ================================
+# 🧪 Test & Experiment Files
+# ================================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ================================
+# 🧾 Logs & Temp Files
+# ================================
+*.log
+*.tmp
+*.bak
+
+# ================================
+# 🖥️ OS / IDE Noise
+# ================================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ================================
+# 📊 Jupyter (if added later)
+# ================================
+.ipynb_checkpoints/
+
+# ================================
+# 🚀 Streamlit
+# ================================
+.streamlit/secrets.toml
